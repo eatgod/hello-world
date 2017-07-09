@@ -2,4 +2,4 @@
 the first repository
 
 
-hi, I'm Neon
+hi, I'm Neon.
